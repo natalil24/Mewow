@@ -1,2 +1,2 @@
-# Mewow
+# Pawfect
 Your AI pet assistance
